@@ -25,3 +25,6 @@ python3 -I scripts/45_prune_forms.py out <lang>
 python3 -I scripts/50_build_sqlite.py out <lang> out/drop-forms-<lang>.txt
 ```
 Entries are generated automatically and contain errors. Corrections are welcome under the same license.
+
+## krdict/
+A separate reverse index built from the Korean Basic Dictionary (한국어기초사전, National Institute of Korean Language), licensed CC BY-SA 2.0 KR. See `krdict/README.md` and `krdict/ATTRIBUTION.md`. It keeps its own license and is not merged with the Wiktionary data above.
