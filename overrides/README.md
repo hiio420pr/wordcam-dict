@@ -15,3 +15,5 @@ Korean learner meanings for the 3,000 most frequent words in English, Japanese, 
 
 ## License
 CC BY-SA 4.0. This data adapts material from Wiktionary (CC BY-SA 4.0), the Korean Basic Dictionary by the National Institute of Korean Language (CC BY-SA 2.0 KR, which permits later versions) and wordfreq (CC BY-SA 4.0). See `../ATTRIBUTION.md` and `../krdict/ATTRIBUTION.md`.
+
+- 2026-11-25: 41 of the 87 unsure rows were resolved with a dictionary candidate (verdict `unsure-fix`, see `data/unsure-decisions.tsv`); the other 46 are not used.

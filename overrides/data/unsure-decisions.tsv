@@ -1,0 +1,88 @@
+id	word	pos	app_meaning	decision	meaning
+de-0802	sie	noun	당신	use	그녀
+de-0868	ihr	noun	당신	use	그녀의
+de-2872	nah	verb	다가가다	use	가까운
+de-2865	gar	verb	요리하다	use	결코
+de-0754	Buch	adj	너도밤나무	use	책
+de-0751	fest	verb	축하하다	use	딱딱한
+de-0967	laut	verb	하다	use	시끄럽다
+de-10172	Sieb	num	일곱	use	체
+de-2704	Stamm	verb	내리다	use	줄기
+de-0941	Kontakt	verb	연락하다	drop	
+de-1305	Grad	adj	고르다	use	도
+de-10337	minen	verb	캐다	drop	
+de-10379	herbsten	verb	수확하다	drop	
+de-0749	Gestalt	verb	지다	use	모습
+de-10704	Beck	noun	빵가게	drop	
+de-2325	Abstand	verb	튀어나오다	use	거리
+de-2286	Heft	verb	잠그다	use	공책
+de-0755	Wunder	adj	부상한	use	기적
+de-2284	Finger	verb	만지작거리다	use	손가락
+de-0968	schmal	noun	기름	use	좁은
+de-0893	eignen	adj	소유하다	use	어울리다
+de-11222	Maul	verb	신음하다	use	주둥이
+de-0881	Hirn	verb	들다	use	뇌
+de-11387	Spat	noun	투계	drop	
+en-0086	year	intj	이리	use	년
+en-0091	way	intj	길	use	길
+en-0985	jam	name	자메이카	use	잼
+en-1655	league	name	국제연맹	use	리그
+en-1838	shot	intj	쏘다	drop	
+en-2682	shop	intj	매장	use	가게
+en-0022	fly	intj	바	drop	
+en-10337	select	noun	선택하다	drop	
+en-1680	honor	intj	명예	use	명예
+en-10436	el	noun	엘	drop	
+en-1404	yellow	intj	노랗다	use	노란
+en-10688	id	pron	나	drop	
+en-0226	pan	adj	팬	drop	
+en-10760	em	num	에	drop	
+en-10770	bother	det	둘 다	drop	
+en-10819	weekly	intj	주	use	매주
+en-10877	arrange	noun	잡다	use	마련하다
+en-10935	honour	intj	낯	use	영예
+en-10975	kong	noun	깡쯔	drop	
+en-11074	parish	verb	죽다	drop	
+en-0454	bow	intj	멍멍	drop	
+en-11171	remote	verb	벽	use	원격
+en-11207	certificate	adj	증서	drop	
+en-1508	snake	name	즈미이니섬	use	뱀
+en-0983	hack	intj	해킹하다	drop	
+en-11262	johnny	noun	콘돔	drop	
+en-11318	sum	pron	어떤	use	합계
+es-0031	saber	pron	그 여자 자신	use	알다
+es-10015	nos	adv	안	use	우리
+es-0084	malo	adv	나쁘게	use	나쁜
+es-0177	fondo	adj	짙다	use	바닥
+es-10208	chique	noun	놈	drop	
+es-1545	ala	prep	위하여	use	날개
+es-10613	lechar	verb	젖을 짜다	drop	
+es-1445	verga	adv	씹하다	drop	
+es-10673	caribe	adj	맵다	drop	
+es-10924	comprado	noun	구매되다	drop	
+es-10927	fa	intj	후유	drop	
+ja-10031	き	pron	그	drop	
+ja-10262	ふさ	verb	달다	drop	
+ja-1156	竜	name	용자리	use	용
+ja-10301	太	noun	지방	drop	
+ja-0048	文	name	달	drop	
+ja-10328	起こし	noun	게양	drop	
+ja-10441	和	name	야마토	drop	
+ja-10522	さか	verb	떼다	drop	
+ja-10539	直	noun	스트레이트	drop	
+ja-10542	レイ	noun	얼	drop	
+ja-10581	アン	noun	작전	drop	
+ja-10612	だり	noun	포	drop	
+ja-10637	せっかい	noun	작용	drop	
+ja-10711	あぶら	verb	굽다	use	기름
+ja-10876	明	noun	광명	drop	
+ja-10979	かさね	noun	산	drop	
+ja-10983	大砲	name	성	use	대포
+ja-11303	かし	verb	변형시키다	drop	
+ja-11308	シャー	noun	샤	drop	
+zh-0768	基	name	지룽	drop	
+zh-1009	尼	name	네팔	drop	
+zh-0151	湖	name	호북	use	호수
+zh-10357	普	noun	보이차	drop	
+zh-10569	翘	noun	코일	drop	
+zh-10823	町	noun	장	drop	
