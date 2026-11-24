@@ -1,0 +1,88 @@
+id	word	pos	app_meaning	correct_meaning	note
+de-0802	sie	noun	당신		The example uses the pronoun sie meaning 그녀. The noun tag gives no ordinary noun sense.
+de-0868	ihr	noun	당신		The example uses the possessive ihr meaning 그녀의. The noun tag gives no ordinary noun sense.
+de-2872	nah	verb	다가가다		예문과 일반 용법은 형용사에 해당하며 동사 원형인지 확인이 필요함
+de-2865	gar	verb	요리하다		예문에서는 부정 강조 부사이고 주어진 동사 품사로는 뜻을 확인하기 어려움
+de-0754	Buch	adj	너도밤나무		Buch normally means 책 as a noun. No standard adjective sense fits.
+de-0751	fest	verb	축하하다		The example uses the adjective fest. There is no standard verb fest.
+de-0967	laut	verb	하다		Laut is commonly an adjective or preposition. The related verb is lauten.
+de-10172	Sieb	num	일곱		Sieb means sieve in the example. I cannot identify a standard numeral reading of this form.
+de-2704	Stamm	verb	내리다		Stamm is normally a noun. I cannot identify a standard verb reading of this form.
+de-0941	Kontakt	verb	연락하다		Kontakt is ordinarily a noun meaning 연락 or 접촉. The corresponding verb is kontaktieren.
+de-1305	Grad	adj	고르다		Grad is normally a noun meaning degree. There is no clear adjective reading.
+de-10337	minen	verb	캐다	채굴하다	This verb is uncommon and I cannot confirm the intended sense from the entry.
+de-10379	herbsten	verb	수확하다		Rare verb. I am unsure whether the intended use is seasonal or refers to a regional harvest sense.
+de-0749	Gestalt	verb	지다		Gestalt is normally a noun meaning form or figure. I do not recognize this as the usual imperative of gestalten.
+de-10704	Beck	noun	빵가게	제빵사	Beck may be a surname or a regional word for a baker. There is no example to identify the noun sense.
+de-2325	Abstand	verb	튀어나오다		Abstand is a noun meaning 거리 or 간격. No ordinary German verb fits the tag.
+de-2286	Heft	verb	잠그다		Heft is a noun meaning 공책 or 책자. The verb tag leaves the intended meaning unclear.
+de-0755	Wunder	adj	부상한		Wunder is a noun meaning 기적. The adjective for 부상한 is wund.
+de-2284	Finger	verb	만지작거리다		Finger is a noun meaning 손가락. No ordinary German verb fits the tag.
+de-0968	schmal	noun	기름		Schmal is normally an adjective meaning 좁다. No standard noun sense fits.
+de-0893	eignen	adj	소유하다		Eignen is a verb meaning 적합하다 when reflexive. No standard adjective sense fits the form.
+de-11222	Maul	verb	신음하다		Maul normally means 주둥이 as a noun. The intended verb is unclear.
+de-0881	Hirn	verb	들다		Hirn is a noun meaning 뇌. No standard verb sense fits.
+de-11387	Spat	noun	투계		The word has specialized mineral and equine senses. There is no context to choose between them.
+en-0086	year	intj	이리		일반적으로 명사이며 감탄사로 볼 문맥이 없음
+en-0091	way	intj	길		보통 명사나 강조 부사이며 독립 감탄사 뜻은 문맥이 필요함
+en-0985	jam	name	자메이카		The example means fruit jam but the name field gives no basis for identifying a proper name.
+en-1655	league	name	국제연맹		An isolated proper name could refer to several organizations. The gloss assumes the League of Nations.
+en-1838	shot	intj	쏘다		The example uses an adjective. The interjection sense needs regional context.
+en-2682	shop	intj	매장		일반적인 감탄사 용법을 확인하기 어렵다. 예문에서는 명사로 쓰였다.
+en-0022	fly	intj	바		일반적으로 동사나 명사이며 감탄사 뜻은 확인하기 어려움
+en-10337	select	noun	선택하다		The given noun tag has no clear everyday reading. The example uses the adjective.
+en-1680	honor	intj	명예		The interjection label appears wrong. The example and gloss are both nouns.
+en-10436	el	noun	엘	엘	The noun could refer to the letter or a US elevated railway. There is no example.
+en-1404	yellow	intj	노랗다		일반적으로 형용사나 명사이며 감탄사 용례를 판단할 문맥이 없음
+en-10688	id	pron	나		Id has no standard pronoun use. The intended source form is unclear.
+en-0226	pan	adj	팬		범위를 나타내는 pan은 주로 접두사이며 형용사 뜻을 확인할 문맥이 없음
+en-10760	em	num	에		수사로 쓰이는 뜻은 확인하기 어렵다. 예문에서는 글자 폭 단위인 명사 엠이다.
+en-10770	bother	det	둘 다		한정사로 쓰이는 뜻을 알 수 없다. 예문에서는 신경 쓰이게 하다는 뜻의 동사다.
+en-10819	weekly	intj	주		감탄사로 쓰이는 뜻을 알 수 없다. 예문에서는 매주라는 뜻의 부사다.
+en-10877	arrange	noun	잡다		명사로 쓰이는 뜻을 알 수 없다. 보통 마련하다나 정리하다는 뜻의 동사다.
+en-10935	honour	intj	낯		감탄사로 쓰이는 뜻을 알 수 없다. 보통 명예를 뜻하는 명사다.
+en-10975	kong	noun	깡쯔		독립된 일반 명사로 어떤 단어를 가리키는지 예문 없이 판단하기 어렵다.
+en-11074	parish	verb	죽다		교구라는 명사 용법은 분명하지만 표기된 동사 용법은 확신하기 어려움
+en-0454	bow	intj	멍멍		A dog sound is familiar in bow wow. The standalone interjection is too rare for me to judge confidently.
+en-11171	remote	verb	벽		예문은 원격을 뜻하는 형용사이며 표기된 동사 용법은 확신하기 어려움
+en-11207	certificate	adj	증서		예문에서는 관람 등급을 나타내지만 독립적인 형용사 용법은 확신하기 어려움
+en-1508	snake	name	즈미이니섬		The name label and island gloss do not establish which place or name is intended.
+en-0983	hack	intj	해킹하다		The example is a verb and I cannot identify a conventional interjection.
+en-11262	johnny	noun	콘돔		일상에서는 이름으로 흔하지만 소문자 명사는 영국식 속어일 수 있음
+en-11318	sum	pron	어떤		표준 영어에서는 대명사로 쓰이지 않음. 예문은 합이라는 뜻의 명사
+es-0031	saber	pron	그 여자 자신		Saber is normally a verb or a noun. I cannot identify a pronoun sense.
+es-10015	nos	adv	안		부사 쓰임을 확인하기 어렵다. 예문에서는 우리를 뜻하는 옛 대명사다.
+es-0084	malo	adv	나쁘게	나쁘게	Malo is normally an adjective, as in the example. The adverbial use depends on dialect.
+es-0177	fondo	adj	짙다		Fondo is generally a noun. I cannot establish a standalone adjective sense.
+es-10208	chique	noun	놈		비표준 명사로서 지역이나 맥락에 따른 뜻을 확정하기 어렵다.
+es-1545	ala	prep	위하여		The example uses the noun 날개. There is no clear Spanish preposition with this spelling.
+es-10613	lechar	verb	젖을 짜다		Rare verb. The intended sense is unclear without context.
+es-1445	verga	adv	씹하다		Usually a noun meaning a rod or vulgar anatomy, as in the example. No clear adverb sense here.
+es-10673	caribe	adj	맵다		The intended regional adjective sense is unclear. Caribe can also refer to the Carib peoples.
+es-10924	comprado	noun	구매되다		The form is normally a participle or adjective. A noun reading would need context.
+es-10927	fa	intj	후유		The interjection is regional and can express surprise or emphasis. The intended nuance is unclear without context.
+ja-10031	き	pron	그		예문의 き는 이유를 나타내는 방언 조사다. 대명사 뜻은 확인하기 어렵다.
+ja-10262	ふさ	verb	달다	막다	ふさ may be a fragment of ふさぐ, but the verb is unclear.
+ja-1156	竜	name	용자리	류	인명이라면 류로 읽을 수 있으나 이름의 실제 독음은 문맥이 필요하다. 일반 명사로는 용이다.
+ja-10301	太	noun	지방		太 is often a name element or a prefix. The intended noun is unclear.
+ja-0048	文	name	달	문장	고유명사 표기는 독음과 대상을 정할 문맥이 필요함. 일반 명사로는 문장.
+ja-10328	起こし	noun	게양		起こし has several noun uses in compounds and can name a confection when written おこし.
+ja-10441	和	name	야마토		As a name, 和 has multiple readings and needs context.
+ja-10522	さか	verb	떼다		흔한 명사 뜻은 비탈길이며 제시된 동사로는 원형을 특정하기 어려움
+ja-10539	直	noun	스트레이트		すぐ나じか 등으로 읽히지만 주로 부사나 접두 요소라 명사 뜻을 특정하기 어려움
+ja-10542	レイ	noun	얼		꽃목걸이와 광선 등 여러 단어의 표기가 같아 문맥 없이는 특정하기 어려움
+ja-10581	アン	noun	작전		외래어와 인명에 쓰이는 표기로 문맥 없이는 뜻을 특정하기 어려움
+ja-10612	だり	noun	포		보통 たり의 유성 형태로 동작을 나열하는 데 쓰이며 명사 뜻을 특정하기 어려움
+ja-10637	せっかい	noun	작용		석회와 절개 등 서로 다른 명사의 표기가 같아 문맥이 필요함
+ja-10711	あぶら	verb	굽다		흔한 명사 뜻은 기름이며 동사로는 이 표기만으로 원형을 특정하기 어려움
+ja-10876	明	noun	광명	빛	明 한 글자만으로는 밝음을 뜻하는 글자인지 왕조 이름인지 구별하기 어렵다.
+ja-10979	かさね	noun	산	겹	가나만으로는 重ね인지 다른 표기나 이름인지 판단하기 어렵다.
+ja-10983	大砲	name	성	오즈쓰	이름이라면 오즈쓰로 읽을 수 있지만 문맥 없이는 이름의 읽기와 대상을 확정하기 어렵다.
+ja-11303	かし	verb	변형시키다		동사라면 貸す의 활용형일 수 있으나 한자나 문맥이 없어 특정하기 어렵다.
+ja-11308	シャー	noun	샤		물 흐르는 소리나 고양이의 하악질을 나타낼 수 있고 명사라면 군주 칭호일 수 있어 문맥이 필요하다.
+zh-0768	基	name	지룽		基 한 글자가 어떤 고유명사를 가리키는지 문맥이 없음
+zh-1009	尼	name	네팔		단독 고유명사로는 어느 이름의 약칭인지 불분명함
+zh-0151	湖	name	호북		호수라는 일반 명사로 흔하며 고유명사 표기가 가리키는 지명은 문맥이 필요함
+zh-10357	普	noun	보이차	보통화	독립 명사로는 여러 약칭이 가능해 문맥이 필요함
+zh-10569	翘	noun	코일		보통 동사로 쓰이며 주어진 명사 용법은 문맥 없이 확인하기 어려움
+zh-10823	町	noun	장	이랑	고전 중국어의 밭두둑과 일본 지명 표기 용례 중 어느 쪽인지 불분명하다.

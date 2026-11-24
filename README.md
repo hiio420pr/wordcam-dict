@@ -28,3 +28,6 @@ Entries are generated automatically and contain errors. Corrections are welcome 
 
 ## krdict/
 A separate reverse index built from the Korean Basic Dictionary (한국어기초사전, National Institute of Korean Language), licensed CC BY-SA 2.0 KR. See `krdict/README.md` and `krdict/ATTRIBUTION.md`. It keeps its own license and is not merged with the Wiktionary data above.
+
+## overrides/
+Reviewed Korean learner meanings for the top 3,000 words in en, ja, es, de and zh (AI-reviewed, not human-reviewed). See `overrides/README.md`.
